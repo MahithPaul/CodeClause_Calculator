@@ -19,7 +19,7 @@
 pip install Tkinter
 ```
 # Watch Video
-- to watch video on my Linked page [click here]()
+- to watch video on my Linked page [click here](https://www.linkedin.com/posts/mahith-paul_connections-tkinter-python-activity-7053737174394941440-87zL?utm_source=share&utm_medium=member_desktop)
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahith-paul)
